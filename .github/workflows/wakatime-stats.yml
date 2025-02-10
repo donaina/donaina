@@ -1,0 +1,20 @@
+name: Wakatime Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' #Will run at midnight every day. Free to change according to your needs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+steps:
+   - name: Checkout code
+     uses: actions/checkout@v2
+
+   - uses: claserre9/wakatime-stats@master
+     with:
+       WAKATIME_API_KEY: ${{ secrets.waka_8fe6ce25-0b6c-4620-8664-978de62f3622 }}
+       WAKATIME_USER_ID: ${{ secrets.Don_aina }}
+       GH_TOKEN: ${{ secrets.GH_TOKEN }}
