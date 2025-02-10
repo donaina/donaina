@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donaina)](https://git.io/streak-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--   stats + languages -->
+
+| .                                                                                                                                                 | .                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact) |
