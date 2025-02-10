@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 <!--   profile-green-animate -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](https://github.com/donaina/donaina/blob/main/profile-3d-contrib/profile-green-animate.svg)
+
