@@ -15,6 +15,6 @@ steps:
 
    - uses: claserre9/wakatime-stats@master
      with:
-       WAKATIME_API_KEY: ${{ secrets.waka_8fe6ce25-0b6c-4620-8664-978de62f3622 }}
-       WAKATIME_USER_ID: ${{ secrets.Don_aina }}
+       WAKATIME_API_KEY: ${{ secrets.API_KEY }}
+       WAKATIME_USER_ID: ${{ secrets.USERNAME }}
        GH_TOKEN: ${{ secrets.GH_TOKEN }}
