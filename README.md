@@ -19,9 +19,5 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donaina"></img>
-
-<!--   profile-green-animate -->
-
-![](https://github.com/donaina/donaina/blob/main/profile-3d-contrib/profile-green-animate.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula)](https://git.io/streak-stats)
 
