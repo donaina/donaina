@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula)](https://git.io/streak-stats)
 
+
+<!---My Github Streak--->
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
+</a>
