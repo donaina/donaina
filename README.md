@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
 </a> 
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -37,6 +35,4 @@ Here are some ideas to get you started:
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
