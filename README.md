@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 | ![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact) |
 
 <!---My Github Streak--->
-<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
-</a>
+/*<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
+</a> */
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donaina&" alt="donaina" /></p>
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
