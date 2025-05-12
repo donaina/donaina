@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=vision-friendly-dark&hide_border=true)
+| ![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 <!-- (https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact)--> |
 
