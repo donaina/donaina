@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoola</h1>
 <h3 align="center">Always learning</h3>
-<h3 align="center">Currrently vibe Coding 🤪</h3>
+<!-- <h3 align="center">Currrently vibe Coding 🤪</h3> -->
 
 <!--
 **donaina/donaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
