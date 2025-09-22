@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayoola</h1>
+<h1 align="center">Hi there, I'm Ayoola 👋</h1>
 <!-- <h3 align="center">Always learning</h3> -->
 <!-- <h3 align="center">Currrently vibe Coding 🤪</h3> -->
 
@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=vision-friendly-dark&hide_border=true
 <!-- (https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact)--> 
 
 <!-- <a href="https://github.com/donaina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
@@ -32,7 +31,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=co
 <!---My Github Streak--->
 <img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
 </a> 
-<a href="http://www.github.com/donaina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=donaina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
