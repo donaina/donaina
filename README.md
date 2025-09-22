@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <!---My Github Streak--->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=donaina&theme=dracula&card_width=800&card_height=200" alt="Donaina's GitHub Streak" /></a>
+[![Donaina's GitHub Streak](https://streak-stats.demolab.com?user=donaina&theme=dracula&card_width=800&card_height=200)](https://git.io/streak-stats)
 <!-- <a href="http://www.github.com/donaina">
 <img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaina&theme=dracula" alt="Donaina' Github streak" />
 </a> -->
