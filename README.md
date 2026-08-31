@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 -->
 <!--   stats + languages -->
 
-| .                                                                                                                                                 | .                                                                                                                              |
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true" alt="Ayo's github stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=radical)
+![Ayo's github stats](https://github-readme-stats.vercel.app/api?username=donaina&show_icons=true&theme=radical&include_all_commits=true) | ![Ayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&layout=compact&theme=radical) -->
 
 
 <!-- (https://github-readme-stats.vercel.app/api/top-langs/?username=donaina&theme=radical&layout=compact)--> 
