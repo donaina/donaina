@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">AI Tools I Build With</h3>
+<h3 align="center">Tools I Build With</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
